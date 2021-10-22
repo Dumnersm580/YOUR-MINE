@@ -27,9 +27,7 @@ Some of the things in this repo should only be used in an educational enviroment
 
 Chrome Passwords was from the [Backdoor Machine](https://github.com/yunusborazan/Backdoor-Machine).
 
-Anti-VM was from my [repo](https://github.com/ItsChasa/Bypass-VirusTotal).
 
-If you have anything you'd like to add or just want to talk to people who are similar minded, join my [Discord Server](https://chasa.wtf).
 
 ## Setup/Instructions:
 **Please only use this for educational purposes!**
@@ -41,14 +39,7 @@ If you have anything you'd like to add or just want to talk to people who are si
 6. Wait until its done, can take up to 30 seconds.
 7. Open the `dist` folder created and there should be an exe in there. Rename it to whatever you want and you are done! 
 
-## Check out my other github things:
-* [Discord Nukers and Tools](https://github.com/itschasa/discord-nuker-tools)
-* [Grabber w/ Chrome Passwords](https://github.com/itschasa/grabber)
-* [Bypass Virus Total and Anti-Viruses](https://github.com/itschasa/bypass-virustotal)
-* [Captcha Bot (verify users with captchas)](https://github.com/itschasa/captcha-bot)
-* [Code Generator Bot (!gen nordvpn kinda bot)](https://github.com/itschasa/code-generator)
 
 
-Join my discord. :)
 
 
